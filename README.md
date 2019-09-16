@@ -1,2 +1,2 @@
 # insurance-calculator
-This project is for my task from Faktorzehn
+This project is for my task from Faktorzehn.
