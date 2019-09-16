@@ -12,7 +12,7 @@ class TestProductInformation {
 		ProductInformation obj_test_product_information = new ProductInformation();
 		int result = obj_test_product_information.getPerUnitProductCost("Optimal");
 		
-		assertEquals(700, result);
+		assertEquals(7000, result);
 	}
 
 }
